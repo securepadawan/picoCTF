@@ -6,6 +6,7 @@ This is my write-up after working through the PicoCTF.
 
 <details>
 <summary>Web Exploitation</summary>
+  
 |Question|Points|
 |--------|------|
 |[GET aHEAD](./Web%20Exploitation/GET%20aHEAD.md)|20|
