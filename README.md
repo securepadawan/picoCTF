@@ -5,41 +5,31 @@ This is my write-up after working through the PicoCTF.
 # Sections
 
 <details>
-
 <summary>Web Exploitation</summary>
-
 |Question|Points|
 |--------|------|
 |[GET aHEAD](./Web%20Exploitation/GET%20aHEAD.md)|20|
-
 </details>
 
 <details>
-
 <summary>Cryptography</summary>
-
 |Question|Points|
 |--------|------|
 |[Mod 26](./Cryptography/Mod%2026.md)|10|
-
 </details>
 
 <details>
-
 <summary>Reverse Engineering</summary>
-
 |Question|Points|
 |--------|------|
 |[Transformation](./Reverse%20Engineering/Transformation.md)|20|
-
 </details>
 
+<details>
 <summary>Forensics</summary>
-
 |Question|Points|
 |--------|------|
 |[information](./Forensics/information.md)|10|
-
 </details>
 
 <details>
