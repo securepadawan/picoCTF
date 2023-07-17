@@ -18,6 +18,8 @@ This is my write-up after working through the PicoCTF.
 |Question|Points|
 |--------|------|
 |[Mod 26](./Cryptography/Mod%2026.md)|10|
+|[Mind your Ps and Qs](./Cryptography/Mind%20your%20Ps%20and%20Qs.md)|20|
+
 </details>
 
 <details>
