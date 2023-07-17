@@ -48,7 +48,7 @@ This is my write-up after working through the PicoCTF.
 |[Python Wrangling](./General%20Skills/Python%20Wrangling.md)|10|
 |[Wave a flag](./General%20Skills/Wave%20a%20flag.md)|10|
 |[Nice netcat...](./General%20Skills/Nice%20netcat....md)|15|
-
+|[Static ain't always noise](./General%20Skills/Static%20ain't%20always%20noise.md)|20|
 </details>
 
 <details>
