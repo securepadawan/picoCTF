@@ -13,6 +13,7 @@ This is my write-up after working through the PicoCTF.
 
 <details>
 <summary>Cryptography</summary>
+  
 |Question|Points|
 |--------|------|
 |[Mod 26](./Cryptography/Mod%2026.md)|10|
@@ -20,6 +21,7 @@ This is my write-up after working through the PicoCTF.
 
 <details>
 <summary>Reverse Engineering</summary>
+  
 |Question|Points|
 |--------|------|
 |[Transformation](./Reverse%20Engineering/Transformation.md)|20|
@@ -27,6 +29,7 @@ This is my write-up after working through the PicoCTF.
 
 <details>
 <summary>Forensics</summary>
+  
 |Question|Points|
 |--------|------|
 |[information](./Forensics/information.md)|10|
